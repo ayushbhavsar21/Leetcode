@@ -12,6 +12,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ayushbhavsar21/Leetcode/tree/master/0002-add-two-numbers) |
 | [3583-sorted-gcd-pair-queries](https://github.com/ayushbhavsar21/Leetcode/tree/master/3583-sorted-gcd-pair-queries) |
 ## Binary Search
 |  |
@@ -33,4 +34,12 @@
 |  |
 | ------- |
 | [3583-sorted-gcd-pair-queries](https://github.com/ayushbhavsar21/Leetcode/tree/master/3583-sorted-gcd-pair-queries) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/ayushbhavsar21/Leetcode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/ayushbhavsar21/Leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
