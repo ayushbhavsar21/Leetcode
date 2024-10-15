@@ -11,12 +11,14 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayushbhavsar21/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/ayushbhavsar21/Leetcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/ayushbhavsar21/Leetcode/tree/master/0013-roman-to-integer) |
 | [3583-sorted-gcd-pair-queries](https://github.com/ayushbhavsar21/Leetcode/tree/master/3583-sorted-gcd-pair-queries) |
 ## Math
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ayushbhavsar21/Leetcode/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/ayushbhavsar21/Leetcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/ayushbhavsar21/Leetcode/tree/master/0013-roman-to-integer) |
 | [3583-sorted-gcd-pair-queries](https://github.com/ayushbhavsar21/Leetcode/tree/master/3583-sorted-gcd-pair-queries) |
 ## Binary Search
 |  |
@@ -52,6 +54,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayushbhavsar21/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/ayushbhavsar21/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/ayushbhavsar21/Leetcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/ayushbhavsar21/Leetcode/tree/master/0013-roman-to-integer) |
 ## Sliding Window
 |  |
 | ------- |
