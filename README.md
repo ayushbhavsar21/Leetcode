@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ayushbhavsar21/Leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/ayushbhavsar21/Leetcode/tree/master/0015-3sum) |
 | [3583-sorted-gcd-pair-queries](https://github.com/ayushbhavsar21/Leetcode/tree/master/3583-sorted-gcd-pair-queries) |
 ## Hash Table
 |  |
@@ -63,8 +64,13 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ayushbhavsar21/Leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/ayushbhavsar21/Leetcode/tree/master/0015-3sum) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ayushbhavsar21/Leetcode/tree/master/0011-container-with-most-water) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/ayushbhavsar21/Leetcode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
