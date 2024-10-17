@@ -23,6 +23,7 @@
 | [0002-add-two-numbers](https://github.com/ayushbhavsar21/Leetcode/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/ayushbhavsar21/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ayushbhavsar21/Leetcode/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/ayushbhavsar21/Leetcode/tree/master/0029-divide-two-integers) |
 | [3583-sorted-gcd-pair-queries](https://github.com/ayushbhavsar21/Leetcode/tree/master/3583-sorted-gcd-pair-queries) |
 ## Binary Search
 |  |
@@ -110,4 +111,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ayushbhavsar21/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/ayushbhavsar21/Leetcode/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
