@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ayushbhavsar21/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/ayushbhavsar21/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ayushbhavsar21/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ayushbhavsar21/Leetcode/tree/master/0016-3sum-closest) |
@@ -28,6 +29,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ayushbhavsar21/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [3583-sorted-gcd-pair-queries](https://github.com/ayushbhavsar21/Leetcode/tree/master/3583-sorted-gcd-pair-queries) |
 ## Combinatorics
 |  |
@@ -102,6 +104,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ayushbhavsar21/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/ayushbhavsar21/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 ## Heap (Priority Queue)
 |  |
