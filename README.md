@@ -70,6 +70,7 @@
 | [0013-roman-to-integer](https://github.com/ayushbhavsar21/Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ayushbhavsar21/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/ayushbhavsar21/Leetcode/tree/master/0022-generate-parentheses) |
+| [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/ayushbhavsar21/Leetcode/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 ## Sliding Window
 |  |
 | ------- |
@@ -118,4 +119,8 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/ayushbhavsar21/Leetcode/tree/master/0029-divide-two-integers) |
+## Simulation
+|  |
+| ------- |
+| [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/ayushbhavsar21/Leetcode/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 <!---LeetCode Topics End-->
