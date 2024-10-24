@@ -10,6 +10,7 @@
 | [0016-3sum-closest](https://github.com/ayushbhavsar21/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ayushbhavsar21/Leetcode/tree/master/0018-4sum) |
 | [3583-sorted-gcd-pair-queries](https://github.com/ayushbhavsar21/Leetcode/tree/master/3583-sorted-gcd-pair-queries) |
+| [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/ayushbhavsar21/Leetcode/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,6 +27,7 @@
 | [0013-roman-to-integer](https://github.com/ayushbhavsar21/Leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/ayushbhavsar21/Leetcode/tree/master/0029-divide-two-integers) |
 | [3583-sorted-gcd-pair-queries](https://github.com/ayushbhavsar21/Leetcode/tree/master/3583-sorted-gcd-pair-queries) |
+| [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/ayushbhavsar21/Leetcode/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
 ## Binary Search
 |  |
 | ------- |
@@ -43,6 +45,7 @@
 |  |
 | ------- |
 | [3583-sorted-gcd-pair-queries](https://github.com/ayushbhavsar21/Leetcode/tree/master/3583-sorted-gcd-pair-queries) |
+| [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/ayushbhavsar21/Leetcode/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -87,6 +90,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ayushbhavsar21/Leetcode/tree/master/0011-container-with-most-water) |
+| [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/ayushbhavsar21/Leetcode/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
 ## Sorting
 |  |
 | ------- |
