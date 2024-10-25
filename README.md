@@ -12,6 +12,7 @@
 | [0031-next-permutation](https://github.com/ayushbhavsar21/Leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ayushbhavsar21/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ayushbhavsar21/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0036-valid-sudoku](https://github.com/ayushbhavsar21/Leetcode/tree/master/0036-valid-sudoku) |
 | [3583-sorted-gcd-pair-queries](https://github.com/ayushbhavsar21/Leetcode/tree/master/3583-sorted-gcd-pair-queries) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/ayushbhavsar21/Leetcode/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
 ## Hash Table
@@ -21,6 +22,7 @@
 | [0012-integer-to-roman](https://github.com/ayushbhavsar21/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ayushbhavsar21/Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ayushbhavsar21/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/ayushbhavsar21/Leetcode/tree/master/0036-valid-sudoku) |
 | [3583-sorted-gcd-pair-queries](https://github.com/ayushbhavsar21/Leetcode/tree/master/3583-sorted-gcd-pair-queries) |
 ## Math
 |  |
@@ -133,4 +135,8 @@
 |  |
 | ------- |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/ayushbhavsar21/Leetcode/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/ayushbhavsar21/Leetcode/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
