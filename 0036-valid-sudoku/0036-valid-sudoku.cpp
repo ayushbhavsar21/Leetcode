@@ -10,7 +10,7 @@ public:
                 else if(st.count(s[i][j]) == 0)
                     st.insert(s[i][j]);
                 else{
-                    cout<<"row"<<endl;
+                    // cout<<"row"<<endl;
                     return false;
                 }
             }
@@ -22,7 +22,7 @@ public:
                 else if(st.count(s[j][i]) == 0)
                     st.insert(s[j][i]);
                 else{
-                    cout<<"col"<<endl;
+                    // cout<<"col"<<endl;
                     return false;
                 }
             }
@@ -42,7 +42,7 @@ public:
                         else if(st.count(s[ix][jx]) == 0)
                             st.insert(s[ix][jx]);
                         else{
-                            cout<<"box"<<endl;
+                            // cout<<"box"<<endl;
                             return false;
                         }
                     }
