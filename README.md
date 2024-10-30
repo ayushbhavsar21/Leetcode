@@ -15,6 +15,7 @@
 | [0036-valid-sudoku](https://github.com/ayushbhavsar21/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ayushbhavsar21/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/ayushbhavsar21/Leetcode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0040-combination-sum-ii) |
 | [3583-sorted-gcd-pair-queries](https://github.com/ayushbhavsar21/Leetcode/tree/master/3583-sorted-gcd-pair-queries) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/ayushbhavsar21/Leetcode/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
 ## Hash Table
@@ -116,6 +117,7 @@
 | [0022-generate-parentheses](https://github.com/ayushbhavsar21/Leetcode/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/ayushbhavsar21/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/ayushbhavsar21/Leetcode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0040-combination-sum-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
