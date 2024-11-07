@@ -17,6 +17,7 @@
 | [0039-combination-sum](https://github.com/ayushbhavsar21/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/ayushbhavsar21/Leetcode/tree/master/0055-jump-game) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/ayushbhavsar21/Leetcode/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3583-sorted-gcd-pair-queries](https://github.com/ayushbhavsar21/Leetcode/tree/master/3583-sorted-gcd-pair-queries) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/ayushbhavsar21/Leetcode/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
@@ -110,6 +111,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/ayushbhavsar21/Leetcode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/ayushbhavsar21/Leetcode/tree/master/0055-jump-game) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/ayushbhavsar21/Leetcode/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
 ## Sorting
 |  |
@@ -130,6 +132,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/ayushbhavsar21/Leetcode/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/ayushbhavsar21/Leetcode/tree/master/0055-jump-game) |
 ## Divide and Conquer
 |  |
 | ------- |
