@@ -18,6 +18,7 @@
 | [0040-combination-sum-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ayushbhavsar21/Leetcode/tree/master/0055-jump-game) |
+| [1428-jump-game-iii](https://github.com/ayushbhavsar21/Leetcode/tree/master/1428-jump-game-iii) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/ayushbhavsar21/Leetcode/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3583-sorted-gcd-pair-queries](https://github.com/ayushbhavsar21/Leetcode/tree/master/3583-sorted-gcd-pair-queries) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/ayushbhavsar21/Leetcode/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
@@ -167,5 +168,10 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [1428-jump-game-iii](https://github.com/ayushbhavsar21/Leetcode/tree/master/1428-jump-game-iii) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/ayushbhavsar21/Leetcode/tree/master/3576-find-subtree-sizes-after-changes) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1428-jump-game-iii](https://github.com/ayushbhavsar21/Leetcode/tree/master/1428-jump-game-iii) |
 <!---LeetCode Topics End-->
