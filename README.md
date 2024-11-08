@@ -17,6 +17,7 @@
 | [0039-combination-sum](https://github.com/ayushbhavsar21/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/ayushbhavsar21/Leetcode/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/ayushbhavsar21/Leetcode/tree/master/0055-jump-game) |
 | [1428-jump-game-iii](https://github.com/ayushbhavsar21/Leetcode/tree/master/1428-jump-game-iii) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/ayushbhavsar21/Leetcode/tree/master/3576-find-subtree-sizes-after-changes) |
@@ -128,6 +129,7 @@
 | [0037-sudoku-solver](https://github.com/ayushbhavsar21/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/ayushbhavsar21/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/ayushbhavsar21/Leetcode/tree/master/0046-permutations) |
 ## Dynamic Programming
 |  |
 | ------- |
