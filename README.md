@@ -21,6 +21,7 @@
 | [0047-permutations-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/ayushbhavsar21/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ayushbhavsar21/Leetcode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/ayushbhavsar21/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ayushbhavsar21/Leetcode/tree/master/0055-jump-game) |
 | [1428-jump-game-iii](https://github.com/ayushbhavsar21/Leetcode/tree/master/1428-jump-game-iii) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/ayushbhavsar21/Leetcode/tree/master/3576-find-subtree-sizes-after-changes) |
@@ -145,12 +146,14 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/ayushbhavsar21/Leetcode/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/ayushbhavsar21/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ayushbhavsar21/Leetcode/tree/master/0055-jump-game) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ayushbhavsar21/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/ayushbhavsar21/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/ayushbhavsar21/Leetcode/tree/master/0053-maximum-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
