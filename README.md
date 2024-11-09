@@ -20,6 +20,7 @@
 | [0046-permutations](https://github.com/ayushbhavsar21/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/ayushbhavsar21/Leetcode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/ayushbhavsar21/Leetcode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/ayushbhavsar21/Leetcode/tree/master/0055-jump-game) |
 | [1428-jump-game-iii](https://github.com/ayushbhavsar21/Leetcode/tree/master/1428-jump-game-iii) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/ayushbhavsar21/Leetcode/tree/master/3576-find-subtree-sizes-after-changes) |
@@ -34,6 +35,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ayushbhavsar21/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/ayushbhavsar21/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ayushbhavsar21/Leetcode/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/ayushbhavsar21/Leetcode/tree/master/0049-group-anagrams) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/ayushbhavsar21/Leetcode/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3583-sorted-gcd-pair-queries](https://github.com/ayushbhavsar21/Leetcode/tree/master/3583-sorted-gcd-pair-queries) |
 ## Math
@@ -96,6 +98,7 @@
 | [0022-generate-parentheses](https://github.com/ayushbhavsar21/Leetcode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/ayushbhavsar21/Leetcode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/ayushbhavsar21/Leetcode/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/ayushbhavsar21/Leetcode/tree/master/0049-group-anagrams) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/ayushbhavsar21/Leetcode/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/ayushbhavsar21/Leetcode/tree/master/3576-find-subtree-sizes-after-changes) |
 ## Sliding Window
@@ -124,6 +127,7 @@
 | [0015-3sum](https://github.com/ayushbhavsar21/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ayushbhavsar21/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ayushbhavsar21/Leetcode/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/ayushbhavsar21/Leetcode/tree/master/0049-group-anagrams) |
 ## Backtracking
 |  |
 | ------- |
