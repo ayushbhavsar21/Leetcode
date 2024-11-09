@@ -22,6 +22,7 @@
 | [0048-rotate-image](https://github.com/ayushbhavsar21/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ayushbhavsar21/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ayushbhavsar21/Leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/ayushbhavsar21/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/ayushbhavsar21/Leetcode/tree/master/0055-jump-game) |
 | [1428-jump-game-iii](https://github.com/ayushbhavsar21/Leetcode/tree/master/1428-jump-game-iii) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/ayushbhavsar21/Leetcode/tree/master/3576-find-subtree-sizes-after-changes) |
@@ -170,6 +171,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/ayushbhavsar21/Leetcode/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/ayushbhavsar21/Leetcode/tree/master/0054-spiral-matrix) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/ayushbhavsar21/Leetcode/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 ## Matrix
 |  |
@@ -177,6 +179,7 @@
 | [0036-valid-sudoku](https://github.com/ayushbhavsar21/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ayushbhavsar21/Leetcode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/ayushbhavsar21/Leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/ayushbhavsar21/Leetcode/tree/master/0054-spiral-matrix) |
 ## Tree
 |  |
 | ------- |
