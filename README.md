@@ -47,6 +47,7 @@
 | [0029-divide-two-integers](https://github.com/ayushbhavsar21/Leetcode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/ayushbhavsar21/Leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/ayushbhavsar21/Leetcode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/ayushbhavsar21/Leetcode/tree/master/0050-powx-n) |
 | [3583-sorted-gcd-pair-queries](https://github.com/ayushbhavsar21/Leetcode/tree/master/3583-sorted-gcd-pair-queries) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/ayushbhavsar21/Leetcode/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
 ## Binary Search
@@ -87,6 +88,7 @@
 | [0002-add-two-numbers](https://github.com/ayushbhavsar21/Leetcode/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/ayushbhavsar21/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ayushbhavsar21/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/ayushbhavsar21/Leetcode/tree/master/0050-powx-n) |
 ## String
 |  |
 | ------- |
