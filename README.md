@@ -24,6 +24,7 @@
 | [0053-maximum-subarray](https://github.com/ayushbhavsar21/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ayushbhavsar21/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/ayushbhavsar21/Leetcode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/ayushbhavsar21/Leetcode/tree/master/0056-merge-intervals) |
 | [1428-jump-game-iii](https://github.com/ayushbhavsar21/Leetcode/tree/master/1428-jump-game-iii) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/ayushbhavsar21/Leetcode/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3583-sorted-gcd-pair-queries](https://github.com/ayushbhavsar21/Leetcode/tree/master/3583-sorted-gcd-pair-queries) |
@@ -132,6 +133,7 @@
 | [0016-3sum-closest](https://github.com/ayushbhavsar21/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ayushbhavsar21/Leetcode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/ayushbhavsar21/Leetcode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/ayushbhavsar21/Leetcode/tree/master/0056-merge-intervals) |
 ## Backtracking
 |  |
 | ------- |
