@@ -53,6 +53,7 @@
 | [0043-multiply-strings](https://github.com/ayushbhavsar21/Leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/ayushbhavsar21/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/ayushbhavsar21/Leetcode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/ayushbhavsar21/Leetcode/tree/master/0062-unique-paths) |
 | [3583-sorted-gcd-pair-queries](https://github.com/ayushbhavsar21/Leetcode/tree/master/3583-sorted-gcd-pair-queries) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/ayushbhavsar21/Leetcode/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
 ## Binary Search
@@ -65,6 +66,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/ayushbhavsar21/Leetcode/tree/master/0062-unique-paths) |
 | [3583-sorted-gcd-pair-queries](https://github.com/ayushbhavsar21/Leetcode/tree/master/3583-sorted-gcd-pair-queries) |
 ## Counting
 |  |
@@ -155,6 +157,7 @@
 | [0045-jump-game-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/ayushbhavsar21/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ayushbhavsar21/Leetcode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/ayushbhavsar21/Leetcode/tree/master/0062-unique-paths) |
 ## Divide and Conquer
 |  |
 | ------- |
