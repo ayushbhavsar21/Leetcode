@@ -111,6 +111,7 @@
 | [0038-count-and-say](https://github.com/ayushbhavsar21/Leetcode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/ayushbhavsar21/Leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/ayushbhavsar21/Leetcode/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/ayushbhavsar21/Leetcode/tree/master/0071-simplify-path) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/ayushbhavsar21/Leetcode/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/ayushbhavsar21/Leetcode/tree/master/3576-find-subtree-sizes-after-changes) |
 ## Sliding Window
@@ -210,4 +211,8 @@
 |  |
 | ------- |
 | [1428-jump-game-iii](https://github.com/ayushbhavsar21/Leetcode/tree/master/1428-jump-game-iii) |
+## Stack
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/ayushbhavsar21/Leetcode/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->
