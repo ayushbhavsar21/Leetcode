@@ -112,6 +112,7 @@
 | [0043-multiply-strings](https://github.com/ayushbhavsar21/Leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/ayushbhavsar21/Leetcode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/ayushbhavsar21/Leetcode/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/ayushbhavsar21/Leetcode/tree/master/0072-edit-distance) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/ayushbhavsar21/Leetcode/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/ayushbhavsar21/Leetcode/tree/master/3576-find-subtree-sizes-after-changes) |
 ## Sliding Window
@@ -163,6 +164,7 @@
 | [0062-unique-paths](https://github.com/ayushbhavsar21/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ayushbhavsar21/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0072-edit-distance](https://github.com/ayushbhavsar21/Leetcode/tree/master/0072-edit-distance) |
 ## Divide and Conquer
 |  |
 | ------- |
