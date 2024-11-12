@@ -32,6 +32,7 @@
 | [0073-set-matrix-zeroes](https://github.com/ayushbhavsar21/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ayushbhavsar21/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ayushbhavsar21/Leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/ayushbhavsar21/Leetcode/tree/master/0078-subsets) |
 | [1428-jump-game-iii](https://github.com/ayushbhavsar21/Leetcode/tree/master/1428-jump-game-iii) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/ayushbhavsar21/Leetcode/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3583-sorted-gcd-pair-queries](https://github.com/ayushbhavsar21/Leetcode/tree/master/3583-sorted-gcd-pair-queries) |
@@ -162,6 +163,7 @@
 | [0046-permutations](https://github.com/ayushbhavsar21/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/ayushbhavsar21/Leetcode/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/ayushbhavsar21/Leetcode/tree/master/0078-subsets) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -191,6 +193,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/ayushbhavsar21/Leetcode/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/ayushbhavsar21/Leetcode/tree/master/0078-subsets) |
 ## Simulation
 |  |
 | ------- |
