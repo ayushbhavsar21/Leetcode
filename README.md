@@ -33,6 +33,7 @@
 | [0074-search-a-2d-matrix](https://github.com/ayushbhavsar21/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ayushbhavsar21/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/ayushbhavsar21/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/ayushbhavsar21/Leetcode/tree/master/0079-word-search) |
 | [1428-jump-game-iii](https://github.com/ayushbhavsar21/Leetcode/tree/master/1428-jump-game-iii) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/ayushbhavsar21/Leetcode/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3583-sorted-gcd-pair-queries](https://github.com/ayushbhavsar21/Leetcode/tree/master/3583-sorted-gcd-pair-queries) |
@@ -119,6 +120,7 @@
 | [0049-group-anagrams](https://github.com/ayushbhavsar21/Leetcode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/ayushbhavsar21/Leetcode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/ayushbhavsar21/Leetcode/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/ayushbhavsar21/Leetcode/tree/master/0079-word-search) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/ayushbhavsar21/Leetcode/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/ayushbhavsar21/Leetcode/tree/master/3576-find-subtree-sizes-after-changes) |
 ## Sliding Window
@@ -164,6 +166,7 @@
 | [0047-permutations-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/ayushbhavsar21/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/ayushbhavsar21/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/ayushbhavsar21/Leetcode/tree/master/0079-word-search) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -213,6 +216,7 @@
 | [0064-minimum-path-sum](https://github.com/ayushbhavsar21/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/ayushbhavsar21/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ayushbhavsar21/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/ayushbhavsar21/Leetcode/tree/master/0079-word-search) |
 ## Tree
 |  |
 | ------- |
