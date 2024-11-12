@@ -31,6 +31,7 @@
 | [0064-minimum-path-sum](https://github.com/ayushbhavsar21/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/ayushbhavsar21/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ayushbhavsar21/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/ayushbhavsar21/Leetcode/tree/master/0075-sort-colors) |
 | [1428-jump-game-iii](https://github.com/ayushbhavsar21/Leetcode/tree/master/1428-jump-game-iii) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/ayushbhavsar21/Leetcode/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3583-sorted-gcd-pair-queries](https://github.com/ayushbhavsar21/Leetcode/tree/master/3583-sorted-gcd-pair-queries) |
@@ -133,6 +134,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ayushbhavsar21/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/ayushbhavsar21/Leetcode/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/ayushbhavsar21/Leetcode/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/ayushbhavsar21/Leetcode/tree/master/0075-sort-colors) |
 ## Greedy
 |  |
 | ------- |
@@ -148,6 +150,7 @@
 | [0018-4sum](https://github.com/ayushbhavsar21/Leetcode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/ayushbhavsar21/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/ayushbhavsar21/Leetcode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/ayushbhavsar21/Leetcode/tree/master/0075-sort-colors) |
 ## Backtracking
 |  |
 | ------- |
