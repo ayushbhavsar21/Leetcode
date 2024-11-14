@@ -103,6 +103,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/ayushbhavsar21/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/ayushbhavsar21/Leetcode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0086-partition-list](https://github.com/ayushbhavsar21/Leetcode/tree/master/0086-partition-list) |
 ## Recursion
 |  |
 | ------- |
@@ -144,6 +145,7 @@
 | [0075-sort-colors](https://github.com/ayushbhavsar21/Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0086-partition-list](https://github.com/ayushbhavsar21/Leetcode/tree/master/0086-partition-list) |
 ## Greedy
 |  |
 | ------- |
