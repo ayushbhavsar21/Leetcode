@@ -64,6 +64,7 @@
 | [0048-rotate-image](https://github.com/ayushbhavsar21/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/ayushbhavsar21/Leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/ayushbhavsar21/Leetcode/tree/master/0062-unique-paths) |
+| [0089-gray-code](https://github.com/ayushbhavsar21/Leetcode/tree/master/0089-gray-code) |
 | [3583-sorted-gcd-pair-queries](https://github.com/ayushbhavsar21/Leetcode/tree/master/3583-sorted-gcd-pair-queries) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/ayushbhavsar21/Leetcode/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
 ## Binary Search
@@ -175,6 +176,7 @@
 | [0077-combinations](https://github.com/ayushbhavsar21/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/ayushbhavsar21/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ayushbhavsar21/Leetcode/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/ayushbhavsar21/Leetcode/tree/master/0089-gray-code) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -205,6 +207,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/ayushbhavsar21/Leetcode/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/ayushbhavsar21/Leetcode/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/ayushbhavsar21/Leetcode/tree/master/0089-gray-code) |
 ## Simulation
 |  |
 | ------- |
