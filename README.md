@@ -39,6 +39,7 @@
 | [0090-subsets-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0090-subsets-ii) |
 | [0139-word-break](https://github.com/ayushbhavsar21/Leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0140-word-break-ii) |
+| [0212-word-search-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0212-word-search-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ayushbhavsar21/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1428-jump-game-iii](https://github.com/ayushbhavsar21/Leetcode/tree/master/1428-jump-game-iii) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/ayushbhavsar21/Leetcode/tree/master/1826-maximum-xor-with-an-element-from-array) |
@@ -144,6 +145,7 @@
 | [0140-word-break-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/ayushbhavsar21/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/ayushbhavsar21/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0212-word-search-ii) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/ayushbhavsar21/Leetcode/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/ayushbhavsar21/Leetcode/tree/master/3576-find-subtree-sizes-after-changes) |
 ## Sliding Window
@@ -198,6 +200,7 @@
 | [0093-restore-ip-addresses](https://github.com/ayushbhavsar21/Leetcode/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0140-word-break-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0140-word-break-ii) |
+| [0212-word-search-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0212-word-search-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -256,6 +259,7 @@
 | [0073-set-matrix-zeroes](https://github.com/ayushbhavsar21/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ayushbhavsar21/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/ayushbhavsar21/Leetcode/tree/master/0079-word-search) |
+| [0212-word-search-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0212-word-search-ii) |
 ## Tree
 |  |
 | ------- |
@@ -296,6 +300,7 @@
 | [0140-word-break-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/ayushbhavsar21/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/ayushbhavsar21/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0212-word-search-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ayushbhavsar21/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/ayushbhavsar21/Leetcode/tree/master/1826-maximum-xor-with-an-element-from-array) |
 ## Memoization
