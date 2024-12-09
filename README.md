@@ -77,6 +77,7 @@
 | [0050-powx-n](https://github.com/ayushbhavsar21/Leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/ayushbhavsar21/Leetcode/tree/master/0062-unique-paths) |
 | [0089-gray-code](https://github.com/ayushbhavsar21/Leetcode/tree/master/0089-gray-code) |
+| [0096-unique-binary-search-trees](https://github.com/ayushbhavsar21/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [3583-sorted-gcd-pair-queries](https://github.com/ayushbhavsar21/Leetcode/tree/master/3583-sorted-gcd-pair-queries) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/ayushbhavsar21/Leetcode/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
 ## Binary Search
@@ -217,6 +218,7 @@
 | [0072-edit-distance](https://github.com/ayushbhavsar21/Leetcode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/ayushbhavsar21/Leetcode/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/ayushbhavsar21/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0139-word-break](https://github.com/ayushbhavsar21/Leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0140-word-break-ii) |
 ## Divide and Conquer
@@ -267,6 +269,7 @@
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/ayushbhavsar21/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/ayushbhavsar21/Leetcode/tree/master/3576-find-subtree-sizes-after-changes) |
 ## Depth-First Search
 |  |
@@ -287,10 +290,12 @@
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/ayushbhavsar21/Leetcode/tree/master/0096-unique-binary-search-trees) |
 ## Binary Tree
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/ayushbhavsar21/Leetcode/tree/master/0096-unique-binary-search-trees) |
 ## Design
 |  |
 | ------- |
