@@ -273,11 +273,13 @@
 | [0095-unique-binary-search-trees-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/ayushbhavsar21/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/ayushbhavsar21/Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/ayushbhavsar21/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/ayushbhavsar21/Leetcode/tree/master/3576-find-subtree-sizes-after-changes) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ayushbhavsar21/Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/ayushbhavsar21/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/ayushbhavsar21/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0386-lexicographical-numbers](https://github.com/ayushbhavsar21/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [1428-jump-game-iii](https://github.com/ayushbhavsar21/Leetcode/tree/master/1428-jump-game-iii) |
@@ -296,12 +298,14 @@
 | [0095-unique-binary-search-trees-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/ayushbhavsar21/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/ayushbhavsar21/Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/ayushbhavsar21/Leetcode/tree/master/0099-recover-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/ayushbhavsar21/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/ayushbhavsar21/Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/ayushbhavsar21/Leetcode/tree/master/0099-recover-binary-search-tree) |
 ## Design
 |  |
 | ------- |
