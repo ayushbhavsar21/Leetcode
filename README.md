@@ -38,6 +38,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ayushbhavsar21/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ayushbhavsar21/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0139-word-break](https://github.com/ayushbhavsar21/Leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0212-word-search-ii) |
@@ -60,6 +61,7 @@
 | [0049-group-anagrams](https://github.com/ayushbhavsar21/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/ayushbhavsar21/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ayushbhavsar21/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ayushbhavsar21/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0139-word-break](https://github.com/ayushbhavsar21/Leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/ayushbhavsar21/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
@@ -232,6 +234,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/ayushbhavsar21/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/ayushbhavsar21/Leetcode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ayushbhavsar21/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ayushbhavsar21/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -278,6 +281,7 @@
 | [0098-validate-binary-search-tree](https://github.com/ayushbhavsar21/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/ayushbhavsar21/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ayushbhavsar21/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ayushbhavsar21/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/ayushbhavsar21/Leetcode/tree/master/3576-find-subtree-sizes-after-changes) |
 ## Depth-First Search
 |  |
@@ -311,6 +315,7 @@
 | [0098-validate-binary-search-tree](https://github.com/ayushbhavsar21/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/ayushbhavsar21/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ayushbhavsar21/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ayushbhavsar21/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Design
 |  |
 | ------- |
