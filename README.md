@@ -231,6 +231,7 @@
 | [0097-interleaving-string](https://github.com/ayushbhavsar21/Leetcode/tree/master/0097-interleaving-string) |
 | [0139-word-break](https://github.com/ayushbhavsar21/Leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0140-word-break-ii) |
+| [0338-counting-bits](https://github.com/ayushbhavsar21/Leetcode/tree/master/0338-counting-bits) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -256,6 +257,7 @@
 | [0078-subsets](https://github.com/ayushbhavsar21/Leetcode/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/ayushbhavsar21/Leetcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0090-subsets-ii) |
+| [0338-counting-bits](https://github.com/ayushbhavsar21/Leetcode/tree/master/0338-counting-bits) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ayushbhavsar21/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/ayushbhavsar21/Leetcode/tree/master/1826-maximum-xor-with-an-element-from-array) |
 ## Simulation
