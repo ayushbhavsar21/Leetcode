@@ -88,6 +88,7 @@
 | [0089-gray-code](https://github.com/ayushbhavsar21/Leetcode/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/ayushbhavsar21/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0204-count-primes](https://github.com/ayushbhavsar21/Leetcode/tree/master/0204-count-primes) |
+| [0464-can-i-win](https://github.com/ayushbhavsar21/Leetcode/tree/master/0464-can-i-win) |
 | [3583-sorted-gcd-pair-queries](https://github.com/ayushbhavsar21/Leetcode/tree/master/3583-sorted-gcd-pair-queries) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/ayushbhavsar21/Leetcode/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
 ## Binary Search
@@ -238,6 +239,7 @@
 | [0139-word-break](https://github.com/ayushbhavsar21/Leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0140-word-break-ii) |
 | [0338-counting-bits](https://github.com/ayushbhavsar21/Leetcode/tree/master/0338-counting-bits) |
+| [0464-can-i-win](https://github.com/ayushbhavsar21/Leetcode/tree/master/0464-can-i-win) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -268,6 +270,7 @@
 | [0260-single-number-iii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/ayushbhavsar21/Leetcode/tree/master/0338-counting-bits) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ayushbhavsar21/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0464-can-i-win](https://github.com/ayushbhavsar21/Leetcode/tree/master/0464-can-i-win) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/ayushbhavsar21/Leetcode/tree/master/1826-maximum-xor-with-an-element-from-array) |
 ## Simulation
 |  |
@@ -379,8 +382,17 @@
 | ------- |
 | [0139-word-break](https://github.com/ayushbhavsar21/Leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0140-word-break-ii) |
+| [0464-can-i-win](https://github.com/ayushbhavsar21/Leetcode/tree/master/0464-can-i-win) |
 ## Enumeration
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ayushbhavsar21/Leetcode/tree/master/0204-count-primes) |
+## Game Theory
+|  |
+| ------- |
+| [0464-can-i-win](https://github.com/ayushbhavsar21/Leetcode/tree/master/0464-can-i-win) |
+## Bitmask
+|  |
+| ------- |
+| [0464-can-i-win](https://github.com/ayushbhavsar21/Leetcode/tree/master/0464-can-i-win) |
 <!---LeetCode Topics End-->
