@@ -51,6 +51,7 @@
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ayushbhavsar21/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0473-matchsticks-to-square](https://github.com/ayushbhavsar21/Leetcode/tree/master/0473-matchsticks-to-square) |
 | [0526-beautiful-arrangement](https://github.com/ayushbhavsar21/Leetcode/tree/master/0526-beautiful-arrangement) |
+| [0638-shopping-offers](https://github.com/ayushbhavsar21/Leetcode/tree/master/0638-shopping-offers) |
 | [1428-jump-game-iii](https://github.com/ayushbhavsar21/Leetcode/tree/master/1428-jump-game-iii) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/ayushbhavsar21/Leetcode/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/ayushbhavsar21/Leetcode/tree/master/3576-find-subtree-sizes-after-changes) |
@@ -225,6 +226,7 @@
 | [0212-word-search-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0212-word-search-ii) |
 | [0473-matchsticks-to-square](https://github.com/ayushbhavsar21/Leetcode/tree/master/0473-matchsticks-to-square) |
 | [0526-beautiful-arrangement](https://github.com/ayushbhavsar21/Leetcode/tree/master/0526-beautiful-arrangement) |
+| [0638-shopping-offers](https://github.com/ayushbhavsar21/Leetcode/tree/master/0638-shopping-offers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -246,6 +248,7 @@
 | [0464-can-i-win](https://github.com/ayushbhavsar21/Leetcode/tree/master/0464-can-i-win) |
 | [0473-matchsticks-to-square](https://github.com/ayushbhavsar21/Leetcode/tree/master/0473-matchsticks-to-square) |
 | [0526-beautiful-arrangement](https://github.com/ayushbhavsar21/Leetcode/tree/master/0526-beautiful-arrangement) |
+| [0638-shopping-offers](https://github.com/ayushbhavsar21/Leetcode/tree/master/0638-shopping-offers) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -279,6 +282,7 @@
 | [0464-can-i-win](https://github.com/ayushbhavsar21/Leetcode/tree/master/0464-can-i-win) |
 | [0473-matchsticks-to-square](https://github.com/ayushbhavsar21/Leetcode/tree/master/0473-matchsticks-to-square) |
 | [0526-beautiful-arrangement](https://github.com/ayushbhavsar21/Leetcode/tree/master/0526-beautiful-arrangement) |
+| [0638-shopping-offers](https://github.com/ayushbhavsar21/Leetcode/tree/master/0638-shopping-offers) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/ayushbhavsar21/Leetcode/tree/master/1826-maximum-xor-with-an-element-from-array) |
 ## Simulation
 |  |
@@ -391,6 +395,7 @@
 | [0139-word-break](https://github.com/ayushbhavsar21/Leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0140-word-break-ii) |
 | [0464-can-i-win](https://github.com/ayushbhavsar21/Leetcode/tree/master/0464-can-i-win) |
+| [0638-shopping-offers](https://github.com/ayushbhavsar21/Leetcode/tree/master/0638-shopping-offers) |
 ## Enumeration
 |  |
 | ------- |
@@ -405,4 +410,5 @@
 | [0464-can-i-win](https://github.com/ayushbhavsar21/Leetcode/tree/master/0464-can-i-win) |
 | [0473-matchsticks-to-square](https://github.com/ayushbhavsar21/Leetcode/tree/master/0473-matchsticks-to-square) |
 | [0526-beautiful-arrangement](https://github.com/ayushbhavsar21/Leetcode/tree/master/0526-beautiful-arrangement) |
+| [0638-shopping-offers](https://github.com/ayushbhavsar21/Leetcode/tree/master/0638-shopping-offers) |
 <!---LeetCode Topics End-->
