@@ -56,6 +56,7 @@
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/ayushbhavsar21/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1428-jump-game-iii](https://github.com/ayushbhavsar21/Leetcode/tree/master/1428-jump-game-iii) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/ayushbhavsar21/Leetcode/tree/master/1826-maximum-xor-with-an-element-from-array) |
+| [2078-maximum-compatibility-score-sum](https://github.com/ayushbhavsar21/Leetcode/tree/master/2078-maximum-compatibility-score-sum) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/ayushbhavsar21/Leetcode/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3583-sorted-gcd-pair-queries](https://github.com/ayushbhavsar21/Leetcode/tree/master/3583-sorted-gcd-pair-queries) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/ayushbhavsar21/Leetcode/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
@@ -232,6 +233,7 @@
 | [0638-shopping-offers](https://github.com/ayushbhavsar21/Leetcode/tree/master/0638-shopping-offers) |
 | [0691-stickers-to-spell-word](https://github.com/ayushbhavsar21/Leetcode/tree/master/0691-stickers-to-spell-word) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/ayushbhavsar21/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [2078-maximum-compatibility-score-sum](https://github.com/ayushbhavsar21/Leetcode/tree/master/2078-maximum-compatibility-score-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -256,6 +258,7 @@
 | [0638-shopping-offers](https://github.com/ayushbhavsar21/Leetcode/tree/master/0638-shopping-offers) |
 | [0691-stickers-to-spell-word](https://github.com/ayushbhavsar21/Leetcode/tree/master/0691-stickers-to-spell-word) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/ayushbhavsar21/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [2078-maximum-compatibility-score-sum](https://github.com/ayushbhavsar21/Leetcode/tree/master/2078-maximum-compatibility-score-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -293,6 +296,7 @@
 | [0691-stickers-to-spell-word](https://github.com/ayushbhavsar21/Leetcode/tree/master/0691-stickers-to-spell-word) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/ayushbhavsar21/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/ayushbhavsar21/Leetcode/tree/master/1826-maximum-xor-with-an-element-from-array) |
+| [2078-maximum-compatibility-score-sum](https://github.com/ayushbhavsar21/Leetcode/tree/master/2078-maximum-compatibility-score-sum) |
 ## Simulation
 |  |
 | ------- |
@@ -423,4 +427,5 @@
 | [0638-shopping-offers](https://github.com/ayushbhavsar21/Leetcode/tree/master/0638-shopping-offers) |
 | [0691-stickers-to-spell-word](https://github.com/ayushbhavsar21/Leetcode/tree/master/0691-stickers-to-spell-word) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/ayushbhavsar21/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [2078-maximum-compatibility-score-sum](https://github.com/ayushbhavsar21/Leetcode/tree/master/2078-maximum-compatibility-score-sum) |
 <!---LeetCode Topics End-->
