@@ -140,6 +140,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ayushbhavsar21/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ayushbhavsar21/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ayushbhavsar21/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -336,6 +337,7 @@
 | [0113-path-sum-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ayushbhavsar21/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ayushbhavsar21/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/ayushbhavsar21/Leetcode/tree/master/3576-find-subtree-sizes-after-changes) |
 ## Depth-First Search
 |  |
@@ -345,6 +347,7 @@
 | [0113-path-sum-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ayushbhavsar21/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ayushbhavsar21/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/ayushbhavsar21/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0386-lexicographical-numbers](https://github.com/ayushbhavsar21/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [1428-jump-game-iii](https://github.com/ayushbhavsar21/Leetcode/tree/master/1428-jump-game-iii) |
@@ -356,6 +359,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ayushbhavsar21/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ayushbhavsar21/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [1428-jump-game-iii](https://github.com/ayushbhavsar21/Leetcode/tree/master/1428-jump-game-iii) |
 ## Stack
 |  |
@@ -388,6 +392,7 @@
 | [0113-path-sum-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ayushbhavsar21/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ayushbhavsar21/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 ## Design
 |  |
 | ------- |
