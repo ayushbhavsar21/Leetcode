@@ -40,6 +40,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ayushbhavsar21/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ayushbhavsar21/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ayushbhavsar21/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0120-triangle](https://github.com/ayushbhavsar21/Leetcode/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/ayushbhavsar21/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/ayushbhavsar21/Leetcode/tree/master/0139-word-break) |
@@ -251,6 +252,7 @@
 | [0095-unique-binary-search-trees-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/ayushbhavsar21/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/ayushbhavsar21/Leetcode/tree/master/0097-interleaving-string) |
+| [0120-triangle](https://github.com/ayushbhavsar21/Leetcode/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/ayushbhavsar21/Leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0140-word-break-ii) |
 | [0338-counting-bits](https://github.com/ayushbhavsar21/Leetcode/tree/master/0338-counting-bits) |
