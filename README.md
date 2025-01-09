@@ -172,6 +172,7 @@
 | [0091-decode-ways](https://github.com/ayushbhavsar21/Leetcode/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/ayushbhavsar21/Leetcode/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/ayushbhavsar21/Leetcode/tree/master/0097-interleaving-string) |
+| [0131-palindrome-partitioning](https://github.com/ayushbhavsar21/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/ayushbhavsar21/Leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/ayushbhavsar21/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
@@ -234,6 +235,7 @@
 | [0093-restore-ip-addresses](https://github.com/ayushbhavsar21/Leetcode/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0113-path-sum-ii) |
+| [0131-palindrome-partitioning](https://github.com/ayushbhavsar21/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0212-word-search-ii) |
 | [0473-matchsticks-to-square](https://github.com/ayushbhavsar21/Leetcode/tree/master/0473-matchsticks-to-square) |
@@ -259,6 +261,7 @@
 | [0097-interleaving-string](https://github.com/ayushbhavsar21/Leetcode/tree/master/0097-interleaving-string) |
 | [0120-triangle](https://github.com/ayushbhavsar21/Leetcode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0131-palindrome-partitioning](https://github.com/ayushbhavsar21/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/ayushbhavsar21/Leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0140-word-break-ii) |
 | [0338-counting-bits](https://github.com/ayushbhavsar21/Leetcode/tree/master/0338-counting-bits) |
