@@ -1,22 +1,21 @@
 class Solution {
 public:
     int canCompleteCircuit(vector<int>& gas, vector<int>& cost) {
-        int totalGas = 0, totalCost = 0;
-        int currentGas = 0, start = 0;
-        
-        for (int i = 0; i < gas.size(); i++) {
-            totalGas += gas[i];
-            totalCost += cost[i];
-            currentGas += gas[i] - cost[i];
-            
-            // If we can't proceed from this station
-            if (currentGas < 0) {
-                start = i + 1;  // Try starting from the next station
-                currentGas = 0; // Reset current gas
+        int n = gas.size();
+        int tg = accumulate(gas.begin(),gas.end(),0);
+        int tc = accumulate(cost.begin(),cost.end(),0);
+        if(tc > tg)
+            return -1;
+        int s =0;
+        int c = 0;
+
+        for(int i=0;i<n;i++){
+            c += gas[i]-cost[i];
+            if(c <0){
+                s = i+1;
+                c = 0;
             }
         }
-        
-        // Check if total gas is enough to cover total cost
-        return (totalGas >= totalCost) ? start : -1;
+        return s;
     }
 };
