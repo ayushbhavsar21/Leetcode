@@ -1,48 +1,45 @@
-struct Node {
-    Node* list[26]; 
-    bool end = false;           
+struct Node{
+    Node* list[26];
+    bool end = 0;
 };
-
-void insert(Node* root, const string& s) {
+void insert(Node* root , string& s){
     Node* node = root;
-    for (char c : s) {
-        if (node->list[c - 'a'] == nullptr) {
-            node->list[c - 'a'] = new Node();
-        }
-        node = node->list[c - 'a'];
+    for(auto it:s){
+        if(node->list[it - 'a'] == nullptr)
+            node->list[it - 'a'] = new Node();
+        node = node->list[it - 'a'];
     }
-    node->end = true;
+    node->end = 1;
 }
-
-bool search(Node* root, const string& s, int start, vector<int>& dp) {
-    if (start == s.length()) 
-        return true;
-    if (dp[start] != -1) 
-        return dp[start];
-
-    Node* node = root;
-    for (int i = start; i < s.length(); i++) {
-        char c = s[i];
-
-        if (node->list[c - 'a'] == nullptr) 
-            return dp[start] = false; 
-        node = node->list[c - 'a'];
-        if (node->end) { 
-            if (search(root, s, i + 1, dp)) 
-                return dp[start] = true;
-        }
-    }
-    return dp[start] = false;
-}
-
 class Solution {
 public:
-    bool wordBreak(string s, vector<string>& w) {
-        Node* root = new Node();
-        for ( string& word : w) {
-            insert(root, word);
+    bool search(Node* root,int i,string& s,vector<int>& dp ){
+        if(i == s.length() )
+            return 1;
+
+        if(dp[i] != -1)
+            return dp[i];
+
+        Node* node = root;
+        for(int j = i;j<s.length();j++){
+            char c = s[j];
+            if(node->list[c - 'a'] == nullptr)
+                return dp[i] = 0;
+
+            node = node->list[c - 'a'];
+            if(node->end){
+                if(search(root , j+1 ,s , dp))
+                    return dp[i] = 1;
+            }
         }
-        vector<int> dp(s.length(), -1);
-        return search(root, s, 0, dp);
+        return dp[i] = 0;
+    }
+    bool wordBreak(string s, vector<string>& v) {
+        Node* root = new Node();
+        for(auto it:v){
+            insert(root , it);
+        }
+        vector<int> dp (s.length() , -1);
+        return search(root , 0 , s ,dp);
     }
 };
