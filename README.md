@@ -83,6 +83,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/ayushbhavsar21/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/ayushbhavsar21/Leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0140-word-break-ii) |
+| [0142-linked-list-cycle-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/ayushbhavsar21/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0336-palindrome-pairs](https://github.com/ayushbhavsar21/Leetcode/tree/master/0336-palindrome-pairs) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ayushbhavsar21/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -150,6 +151,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ayushbhavsar21/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/ayushbhavsar21/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [0142-linked-list-cycle-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -204,6 +206,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/ayushbhavsar21/Leetcode/tree/master/0086-partition-list) |
+| [0142-linked-list-cycle-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 ## Greedy
 |  |
 | ------- |
