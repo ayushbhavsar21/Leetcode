@@ -84,6 +84,7 @@
 | [0139-word-break](https://github.com/ayushbhavsar21/Leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0140-word-break-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/ayushbhavsar21/Leetcode/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/ayushbhavsar21/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0336-palindrome-pairs](https://github.com/ayushbhavsar21/Leetcode/tree/master/0336-palindrome-pairs) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ayushbhavsar21/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -153,6 +154,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/ayushbhavsar21/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/ayushbhavsar21/Leetcode/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/ayushbhavsar21/Leetcode/tree/master/0146-lru-cache) |
 ## Recursion
 |  |
 | ------- |
@@ -427,6 +429,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/ayushbhavsar21/Leetcode/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/ayushbhavsar21/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/ayushbhavsar21/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Trie
@@ -478,4 +481,8 @@
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/ayushbhavsar21/Leetcode/tree/master/0133-clone-graph) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/ayushbhavsar21/Leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
