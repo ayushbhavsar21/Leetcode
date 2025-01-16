@@ -414,6 +414,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ayushbhavsar21/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/ayushbhavsar21/Leetcode/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ayushbhavsar21/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/ayushbhavsar21/Leetcode/tree/master/0155-min-stack) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -446,6 +447,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/ayushbhavsar21/Leetcode/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/ayushbhavsar21/Leetcode/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/ayushbhavsar21/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/ayushbhavsar21/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Trie
