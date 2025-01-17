@@ -53,6 +53,7 @@
 | [0152-maximum-product-subarray](https://github.com/ayushbhavsar21/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayushbhavsar21/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ayushbhavsar21/Leetcode/tree/master/0162-find-peak-element) |
+| [0164-maximum-gap](https://github.com/ayushbhavsar21/Leetcode/tree/master/0164-maximum-gap) |
 | [0204-count-primes](https://github.com/ayushbhavsar21/Leetcode/tree/master/0204-count-primes) |
 | [0212-word-search-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0212-word-search-ii) |
 | [0260-single-number-iii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0260-single-number-iii) |
@@ -244,6 +245,7 @@
 | [0075-sort-colors](https://github.com/ayushbhavsar21/Leetcode/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/ayushbhavsar21/Leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/ayushbhavsar21/Leetcode/tree/master/0148-sort-list) |
+| [0164-maximum-gap](https://github.com/ayushbhavsar21/Leetcode/tree/master/0164-maximum-gap) |
 ## Backtracking
 |  |
 | ------- |
@@ -505,4 +507,12 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/ayushbhavsar21/Leetcode/tree/master/0146-lru-cache) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/ayushbhavsar21/Leetcode/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/ayushbhavsar21/Leetcode/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
