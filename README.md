@@ -52,6 +52,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/ayushbhavsar21/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/ayushbhavsar21/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayushbhavsar21/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/ayushbhavsar21/Leetcode/tree/master/0162-find-peak-element) |
 | [0204-count-primes](https://github.com/ayushbhavsar21/Leetcode/tree/master/0204-count-primes) |
 | [0212-word-search-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0212-word-search-ii) |
 | [0260-single-number-iii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0260-single-number-iii) |
@@ -120,6 +121,7 @@
 | [0074-search-a-2d-matrix](https://github.com/ayushbhavsar21/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayushbhavsar21/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/ayushbhavsar21/Leetcode/tree/master/0162-find-peak-element) |
 | [3583-sorted-gcd-pair-queries](https://github.com/ayushbhavsar21/Leetcode/tree/master/3583-sorted-gcd-pair-queries) |
 ## Combinatorics
 |  |
