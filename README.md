@@ -90,6 +90,7 @@
 | [0140-word-break-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0140-word-break-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/ayushbhavsar21/Leetcode/tree/master/0146-lru-cache) |
+| [0166-fraction-to-recurring-decimal](https://github.com/ayushbhavsar21/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0208-implement-trie-prefix-tree](https://github.com/ayushbhavsar21/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0336-palindrome-pairs](https://github.com/ayushbhavsar21/Leetcode/tree/master/0336-palindrome-pairs) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ayushbhavsar21/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -109,6 +110,7 @@
 | [0089-gray-code](https://github.com/ayushbhavsar21/Leetcode/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/ayushbhavsar21/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ayushbhavsar21/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0166-fraction-to-recurring-decimal](https://github.com/ayushbhavsar21/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0204-count-primes](https://github.com/ayushbhavsar21/Leetcode/tree/master/0204-count-primes) |
 | [0464-can-i-win](https://github.com/ayushbhavsar21/Leetcode/tree/master/0464-can-i-win) |
 | [3583-sorted-gcd-pair-queries](https://github.com/ayushbhavsar21/Leetcode/tree/master/3583-sorted-gcd-pair-queries) |
@@ -197,6 +199,7 @@
 | [0140-word-break-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/ayushbhavsar21/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/ayushbhavsar21/Leetcode/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/ayushbhavsar21/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0208-implement-trie-prefix-tree](https://github.com/ayushbhavsar21/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/ayushbhavsar21/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0212-word-search-ii) |
