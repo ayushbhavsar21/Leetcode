@@ -392,6 +392,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ayushbhavsar21/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ayushbhavsar21/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0173-binary-search-tree-iterator](https://github.com/ayushbhavsar21/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/ayushbhavsar21/Leetcode/tree/master/3576-find-subtree-sizes-after-changes) |
 ## Depth-First Search
 |  |
@@ -428,6 +429,7 @@
 | [0143-reorder-list](https://github.com/ayushbhavsar21/Leetcode/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ayushbhavsar21/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/ayushbhavsar21/Leetcode/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/ayushbhavsar21/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -437,6 +439,7 @@
 | [0099-recover-binary-search-tree](https://github.com/ayushbhavsar21/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ayushbhavsar21/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ayushbhavsar21/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/ayushbhavsar21/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 ## Binary Tree
 |  |
 | ------- |
@@ -456,11 +459,13 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ayushbhavsar21/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ayushbhavsar21/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0173-binary-search-tree-iterator](https://github.com/ayushbhavsar21/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 ## Design
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/ayushbhavsar21/Leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/ayushbhavsar21/Leetcode/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/ayushbhavsar21/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/ayushbhavsar21/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/ayushbhavsar21/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Trie
@@ -524,4 +529,8 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/ayushbhavsar21/Leetcode/tree/master/0164-maximum-gap) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/ayushbhavsar21/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
