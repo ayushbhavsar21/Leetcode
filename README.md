@@ -56,6 +56,7 @@
 | [0164-maximum-gap](https://github.com/ayushbhavsar21/Leetcode/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushbhavsar21/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/ayushbhavsar21/Leetcode/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/ayushbhavsar21/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/ayushbhavsar21/Leetcode/tree/master/0204-count-primes) |
 | [0212-word-search-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0212-word-search-ii) |
 | [0260-single-number-iii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0260-single-number-iii) |
@@ -115,6 +116,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/ayushbhavsar21/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ayushbhavsar21/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0172-factorial-trailing-zeroes](https://github.com/ayushbhavsar21/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/ayushbhavsar21/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/ayushbhavsar21/Leetcode/tree/master/0204-count-primes) |
 | [0464-can-i-win](https://github.com/ayushbhavsar21/Leetcode/tree/master/0464-can-i-win) |
 | [3583-sorted-gcd-pair-queries](https://github.com/ayushbhavsar21/Leetcode/tree/master/3583-sorted-gcd-pair-queries) |
@@ -239,6 +241,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/ayushbhavsar21/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/ayushbhavsar21/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushbhavsar21/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/ayushbhavsar21/Leetcode/tree/master/0189-rotate-array) |
 ## Greedy
 |  |
 | ------- |
