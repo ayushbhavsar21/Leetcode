@@ -58,6 +58,7 @@
 | [0179-largest-number](https://github.com/ayushbhavsar21/Leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/ayushbhavsar21/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/ayushbhavsar21/Leetcode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/ayushbhavsar21/Leetcode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/ayushbhavsar21/Leetcode/tree/master/0204-count-primes) |
 | [0212-word-search-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0212-word-search-ii) |
 | [0260-single-number-iii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0260-single-number-iii) |
@@ -385,6 +386,7 @@
 | [0074-search-a-2d-matrix](https://github.com/ayushbhavsar21/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/ayushbhavsar21/Leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/ayushbhavsar21/Leetcode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/ayushbhavsar21/Leetcode/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0212-word-search-ii) |
 ## Tree
 |  |
@@ -421,6 +423,7 @@
 | [0130-surrounded-regions](https://github.com/ayushbhavsar21/Leetcode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/ayushbhavsar21/Leetcode/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/ayushbhavsar21/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/ayushbhavsar21/Leetcode/tree/master/0200-number-of-islands) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/ayushbhavsar21/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0386-lexicographical-numbers](https://github.com/ayushbhavsar21/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [1428-jump-game-iii](https://github.com/ayushbhavsar21/Leetcode/tree/master/1428-jump-game-iii) |
@@ -436,6 +439,7 @@
 | [0130-surrounded-regions](https://github.com/ayushbhavsar21/Leetcode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/ayushbhavsar21/Leetcode/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/ayushbhavsar21/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/ayushbhavsar21/Leetcode/tree/master/0200-number-of-islands) |
 | [1428-jump-game-iii](https://github.com/ayushbhavsar21/Leetcode/tree/master/1428-jump-game-iii) |
 ## Stack
 |  |
@@ -530,6 +534,7 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ayushbhavsar21/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/ayushbhavsar21/Leetcode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/ayushbhavsar21/Leetcode/tree/master/0200-number-of-islands) |
 ## Graph
 |  |
 | ------- |
