@@ -64,6 +64,7 @@
 | [0212-word-search-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayushbhavsar21/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0216-combination-sum-iii) |
+| [0221-maximal-square](https://github.com/ayushbhavsar21/Leetcode/tree/master/0221-maximal-square) |
 | [0260-single-number-iii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0260-single-number-iii) |
 | [0336-palindrome-pairs](https://github.com/ayushbhavsar21/Leetcode/tree/master/0336-palindrome-pairs) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ayushbhavsar21/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -324,6 +325,7 @@
 | [0140-word-break-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/ayushbhavsar21/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/ayushbhavsar21/Leetcode/tree/master/0198-house-robber) |
+| [0221-maximal-square](https://github.com/ayushbhavsar21/Leetcode/tree/master/0221-maximal-square) |
 | [0338-counting-bits](https://github.com/ayushbhavsar21/Leetcode/tree/master/0338-counting-bits) |
 | [0464-can-i-win](https://github.com/ayushbhavsar21/Leetcode/tree/master/0464-can-i-win) |
 | [0473-matchsticks-to-square](https://github.com/ayushbhavsar21/Leetcode/tree/master/0473-matchsticks-to-square) |
@@ -399,6 +401,7 @@
 | [0130-surrounded-regions](https://github.com/ayushbhavsar21/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ayushbhavsar21/Leetcode/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0212-word-search-ii) |
+| [0221-maximal-square](https://github.com/ayushbhavsar21/Leetcode/tree/master/0221-maximal-square) |
 ## Tree
 |  |
 | ------- |
