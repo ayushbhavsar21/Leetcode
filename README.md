@@ -124,6 +124,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/ayushbhavsar21/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/ayushbhavsar21/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/ayushbhavsar21/Leetcode/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/ayushbhavsar21/Leetcode/tree/master/0223-rectangle-area) |
 | [0464-can-i-win](https://github.com/ayushbhavsar21/Leetcode/tree/master/0464-can-i-win) |
 | [3583-sorted-gcd-pair-queries](https://github.com/ayushbhavsar21/Leetcode/tree/master/3583-sorted-gcd-pair-queries) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/ayushbhavsar21/Leetcode/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
@@ -599,4 +600,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayushbhavsar21/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/ayushbhavsar21/Leetcode/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
