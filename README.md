@@ -67,6 +67,7 @@
 | [0221-maximal-square](https://github.com/ayushbhavsar21/Leetcode/tree/master/0221-maximal-square) |
 | [0229-majority-element-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/ayushbhavsar21/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0260-single-number-iii) |
 | [0336-palindrome-pairs](https://github.com/ayushbhavsar21/Leetcode/tree/master/0336-palindrome-pairs) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ayushbhavsar21/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -129,7 +130,6 @@
 | [0204-count-primes](https://github.com/ayushbhavsar21/Leetcode/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/ayushbhavsar21/Leetcode/tree/master/0223-rectangle-area) |
 | [0227-basic-calculator-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0227-basic-calculator-ii) |
-| [0241-different-ways-to-add-parentheses](https://github.com/ayushbhavsar21/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0464-can-i-win](https://github.com/ayushbhavsar21/Leetcode/tree/master/0464-can-i-win) |
 | [3583-sorted-gcd-pair-queries](https://github.com/ayushbhavsar21/Leetcode/tree/master/3583-sorted-gcd-pair-queries) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/ayushbhavsar21/Leetcode/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
@@ -145,6 +145,7 @@
 | [0162-find-peak-element](https://github.com/ayushbhavsar21/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushbhavsar21/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ayushbhavsar21/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [3583-sorted-gcd-pair-queries](https://github.com/ayushbhavsar21/Leetcode/tree/master/3583-sorted-gcd-pair-queries) |
 ## Combinatorics
 |  |
@@ -198,7 +199,6 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/ayushbhavsar21/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/ayushbhavsar21/Leetcode/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/ayushbhavsar21/Leetcode/tree/master/0143-reorder-list) |
-| [0241-different-ways-to-add-parentheses](https://github.com/ayushbhavsar21/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 ## String
 |  |
 | ------- |
@@ -230,7 +230,6 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/ayushbhavsar21/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0212-word-search-ii) |
 | [0227-basic-calculator-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0227-basic-calculator-ii) |
-| [0241-different-ways-to-add-parentheses](https://github.com/ayushbhavsar21/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0336-palindrome-pairs](https://github.com/ayushbhavsar21/Leetcode/tree/master/0336-palindrome-pairs) |
 | [0691-stickers-to-spell-word](https://github.com/ayushbhavsar21/Leetcode/tree/master/0691-stickers-to-spell-word) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/ayushbhavsar21/Leetcode/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
@@ -338,7 +337,6 @@
 | [0152-maximum-product-subarray](https://github.com/ayushbhavsar21/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/ayushbhavsar21/Leetcode/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/ayushbhavsar21/Leetcode/tree/master/0221-maximal-square) |
-| [0241-different-ways-to-add-parentheses](https://github.com/ayushbhavsar21/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0338-counting-bits](https://github.com/ayushbhavsar21/Leetcode/tree/master/0338-counting-bits) |
 | [0464-can-i-win](https://github.com/ayushbhavsar21/Leetcode/tree/master/0464-can-i-win) |
 | [0473-matchsticks-to-square](https://github.com/ayushbhavsar21/Leetcode/tree/master/0473-matchsticks-to-square) |
@@ -359,6 +357,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ayushbhavsar21/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/ayushbhavsar21/Leetcode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayushbhavsar21/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -415,6 +414,7 @@
 | [0200-number-of-islands](https://github.com/ayushbhavsar21/Leetcode/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/ayushbhavsar21/Leetcode/tree/master/0221-maximal-square) |
+| [0240-search-a-2d-matrix-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Tree
 |  |
 | ------- |
@@ -551,7 +551,6 @@
 | ------- |
 | [0139-word-break](https://github.com/ayushbhavsar21/Leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0140-word-break-ii) |
-| [0241-different-ways-to-add-parentheses](https://github.com/ayushbhavsar21/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0464-can-i-win](https://github.com/ayushbhavsar21/Leetcode/tree/master/0464-can-i-win) |
 | [0638-shopping-offers](https://github.com/ayushbhavsar21/Leetcode/tree/master/0638-shopping-offers) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/ayushbhavsar21/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
