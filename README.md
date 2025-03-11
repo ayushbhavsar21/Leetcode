@@ -106,6 +106,7 @@
 | [0187-repeated-dna-sequences](https://github.com/ayushbhavsar21/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/ayushbhavsar21/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0229-majority-element-ii) |
+| [0264-ugly-number-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0336-palindrome-pairs](https://github.com/ayushbhavsar21/Leetcode/tree/master/0336-palindrome-pairs) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ayushbhavsar21/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/ayushbhavsar21/Leetcode/tree/master/3576-find-subtree-sizes-after-changes) |
@@ -130,6 +131,7 @@
 | [0204-count-primes](https://github.com/ayushbhavsar21/Leetcode/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/ayushbhavsar21/Leetcode/tree/master/0223-rectangle-area) |
 | [0227-basic-calculator-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0227-basic-calculator-ii) |
+| [0264-ugly-number-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0464-can-i-win](https://github.com/ayushbhavsar21/Leetcode/tree/master/0464-can-i-win) |
 | [3583-sorted-gcd-pair-queries](https://github.com/ayushbhavsar21/Leetcode/tree/master/3583-sorted-gcd-pair-queries) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/ayushbhavsar21/Leetcode/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
@@ -337,6 +339,7 @@
 | [0152-maximum-product-subarray](https://github.com/ayushbhavsar21/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/ayushbhavsar21/Leetcode/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/ayushbhavsar21/Leetcode/tree/master/0221-maximal-square) |
+| [0264-ugly-number-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0338-counting-bits](https://github.com/ayushbhavsar21/Leetcode/tree/master/0338-counting-bits) |
 | [0464-can-i-win](https://github.com/ayushbhavsar21/Leetcode/tree/master/0464-can-i-win) |
 | [0473-matchsticks-to-square](https://github.com/ayushbhavsar21/Leetcode/tree/master/0473-matchsticks-to-square) |
@@ -363,6 +366,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ayushbhavsar21/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayushbhavsar21/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0264-ugly-number-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0264-ugly-number-ii) |
 ## Merge Sort
 |  |
 | ------- |
