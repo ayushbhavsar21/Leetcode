@@ -70,6 +70,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0260-single-number-iii) |
 | [0274-h-index](https://github.com/ayushbhavsar21/Leetcode/tree/master/0274-h-index) |
+| [0275-h-index-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0275-h-index-ii) |
 | [0336-palindrome-pairs](https://github.com/ayushbhavsar21/Leetcode/tree/master/0336-palindrome-pairs) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ayushbhavsar21/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0473-matchsticks-to-square](https://github.com/ayushbhavsar21/Leetcode/tree/master/0473-matchsticks-to-square) |
@@ -149,6 +150,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushbhavsar21/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ayushbhavsar21/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0275-h-index-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0275-h-index-ii) |
 | [3583-sorted-gcd-pair-queries](https://github.com/ayushbhavsar21/Leetcode/tree/master/3583-sorted-gcd-pair-queries) |
 ## Combinatorics
 |  |
