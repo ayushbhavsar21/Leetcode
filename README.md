@@ -134,6 +134,7 @@
 | [0223-rectangle-area](https://github.com/ayushbhavsar21/Leetcode/tree/master/0223-rectangle-area) |
 | [0227-basic-calculator-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0264-ugly-number-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/ayushbhavsar21/Leetcode/tree/master/0279-perfect-squares) |
 | [0464-can-i-win](https://github.com/ayushbhavsar21/Leetcode/tree/master/0464-can-i-win) |
 | [3583-sorted-gcd-pair-queries](https://github.com/ayushbhavsar21/Leetcode/tree/master/3583-sorted-gcd-pair-queries) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/ayushbhavsar21/Leetcode/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
@@ -344,6 +345,7 @@
 | [0198-house-robber](https://github.com/ayushbhavsar21/Leetcode/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/ayushbhavsar21/Leetcode/tree/master/0221-maximal-square) |
 | [0264-ugly-number-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/ayushbhavsar21/Leetcode/tree/master/0279-perfect-squares) |
 | [0338-counting-bits](https://github.com/ayushbhavsar21/Leetcode/tree/master/0338-counting-bits) |
 | [0464-can-i-win](https://github.com/ayushbhavsar21/Leetcode/tree/master/0464-can-i-win) |
 | [0473-matchsticks-to-square](https://github.com/ayushbhavsar21/Leetcode/tree/master/0473-matchsticks-to-square) |
@@ -485,6 +487,7 @@
 | [0200-number-of-islands](https://github.com/ayushbhavsar21/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/ayushbhavsar21/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0279-perfect-squares](https://github.com/ayushbhavsar21/Leetcode/tree/master/0279-perfect-squares) |
 | [1428-jump-game-iii](https://github.com/ayushbhavsar21/Leetcode/tree/master/1428-jump-game-iii) |
 ## Stack
 |  |
