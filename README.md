@@ -69,6 +69,7 @@
 | [0238-product-of-array-except-self](https://github.com/ayushbhavsar21/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0260-single-number-iii) |
+| [0274-h-index](https://github.com/ayushbhavsar21/Leetcode/tree/master/0274-h-index) |
 | [0336-palindrome-pairs](https://github.com/ayushbhavsar21/Leetcode/tree/master/0336-palindrome-pairs) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ayushbhavsar21/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0473-matchsticks-to-square](https://github.com/ayushbhavsar21/Leetcode/tree/master/0473-matchsticks-to-square) |
@@ -288,6 +289,7 @@
 | [0179-largest-number](https://github.com/ayushbhavsar21/Leetcode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayushbhavsar21/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0229-majority-element-ii) |
+| [0274-h-index](https://github.com/ayushbhavsar21/Leetcode/tree/master/0274-h-index) |
 ## Backtracking
 |  |
 | ------- |
@@ -632,4 +634,8 @@
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/ayushbhavsar21/Leetcode/tree/master/0223-rectangle-area) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/ayushbhavsar21/Leetcode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
