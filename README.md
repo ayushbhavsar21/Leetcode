@@ -71,6 +71,7 @@
 | [0260-single-number-iii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0260-single-number-iii) |
 | [0274-h-index](https://github.com/ayushbhavsar21/Leetcode/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0275-h-index-ii) |
+| [0284-peeking-iterator](https://github.com/ayushbhavsar21/Leetcode/tree/master/0284-peeking-iterator) |
 | [0336-palindrome-pairs](https://github.com/ayushbhavsar21/Leetcode/tree/master/0336-palindrome-pairs) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ayushbhavsar21/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0473-matchsticks-to-square](https://github.com/ayushbhavsar21/Leetcode/tree/master/0473-matchsticks-to-square) |
@@ -543,6 +544,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/ayushbhavsar21/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/ayushbhavsar21/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/ayushbhavsar21/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0284-peeking-iterator](https://github.com/ayushbhavsar21/Leetcode/tree/master/0284-peeking-iterator) |
 ## Trie
 |  |
 | ------- |
@@ -611,6 +613,7 @@
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/ayushbhavsar21/Leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0284-peeking-iterator](https://github.com/ayushbhavsar21/Leetcode/tree/master/0284-peeking-iterator) |
 ## Database
 |  |
 | ------- |
