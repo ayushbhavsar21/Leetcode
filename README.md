@@ -75,6 +75,7 @@
 | [0287-find-the-duplicate-number](https://github.com/ayushbhavsar21/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/ayushbhavsar21/Leetcode/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/ayushbhavsar21/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0304-range-sum-query-2d-immutable](https://github.com/ayushbhavsar21/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0336-palindrome-pairs](https://github.com/ayushbhavsar21/Leetcode/tree/master/0336-palindrome-pairs) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ayushbhavsar21/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0473-matchsticks-to-square](https://github.com/ayushbhavsar21/Leetcode/tree/master/0473-matchsticks-to-square) |
@@ -182,6 +183,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ayushbhavsar21/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/ayushbhavsar21/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0304-range-sum-query-2d-immutable](https://github.com/ayushbhavsar21/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [3583-sorted-gcd-pair-queries](https://github.com/ayushbhavsar21/Leetcode/tree/master/3583-sorted-gcd-pair-queries) |
 ## Linked List
 |  |
@@ -439,6 +441,7 @@
 | [0221-maximal-square](https://github.com/ayushbhavsar21/Leetcode/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/ayushbhavsar21/Leetcode/tree/master/0289-game-of-life) |
+| [0304-range-sum-query-2d-immutable](https://github.com/ayushbhavsar21/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 ## Tree
 |  |
 | ------- |
@@ -558,6 +561,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/ayushbhavsar21/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/ayushbhavsar21/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0284-peeking-iterator](https://github.com/ayushbhavsar21/Leetcode/tree/master/0284-peeking-iterator) |
+| [0304-range-sum-query-2d-immutable](https://github.com/ayushbhavsar21/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 ## Trie
 |  |
 | ------- |
