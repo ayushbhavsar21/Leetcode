@@ -490,6 +490,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ayushbhavsar21/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ayushbhavsar21/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ayushbhavsar21/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/ayushbhavsar21/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0386-lexicographical-numbers](https://github.com/ayushbhavsar21/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [1428-jump-game-iii](https://github.com/ayushbhavsar21/Leetcode/tree/master/1428-jump-game-iii) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/ayushbhavsar21/Leetcode/tree/master/3576-find-subtree-sizes-after-changes) |
@@ -508,6 +509,7 @@
 | [0207-course-schedule](https://github.com/ayushbhavsar21/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0279-perfect-squares](https://github.com/ayushbhavsar21/Leetcode/tree/master/0279-perfect-squares) |
+| [0310-minimum-height-trees](https://github.com/ayushbhavsar21/Leetcode/tree/master/0310-minimum-height-trees) |
 | [1428-jump-game-iii](https://github.com/ayushbhavsar21/Leetcode/tree/master/1428-jump-game-iii) |
 ## Stack
 |  |
@@ -618,6 +620,7 @@
 | [0133-clone-graph](https://github.com/ayushbhavsar21/Leetcode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/ayushbhavsar21/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/ayushbhavsar21/Leetcode/tree/master/0310-minimum-height-trees) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -655,6 +658,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/ayushbhavsar21/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/ayushbhavsar21/Leetcode/tree/master/0310-minimum-height-trees) |
 ## Quickselect
 |  |
 | ------- |
