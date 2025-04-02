@@ -89,6 +89,7 @@
 | [0691-stickers-to-spell-word](https://github.com/ayushbhavsar21/Leetcode/tree/master/0691-stickers-to-spell-word) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/ayushbhavsar21/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1428-jump-game-iii](https://github.com/ayushbhavsar21/Leetcode/tree/master/1428-jump-game-iii) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/ayushbhavsar21/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/ayushbhavsar21/Leetcode/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [2078-maximum-compatibility-score-sum](https://github.com/ayushbhavsar21/Leetcode/tree/master/2078-maximum-compatibility-score-sum) |
 | [2808-painting-the-walls](https://github.com/ayushbhavsar21/Leetcode/tree/master/2808-painting-the-walls) |
@@ -312,6 +313,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/ayushbhavsar21/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/ayushbhavsar21/Leetcode/tree/master/0274-h-index) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/ayushbhavsar21/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Backtracking
 |  |
 | ------- |
@@ -378,6 +380,7 @@
 | [0638-shopping-offers](https://github.com/ayushbhavsar21/Leetcode/tree/master/0638-shopping-offers) |
 | [0691-stickers-to-spell-word](https://github.com/ayushbhavsar21/Leetcode/tree/master/0691-stickers-to-spell-word) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/ayushbhavsar21/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/ayushbhavsar21/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2078-maximum-compatibility-score-sum](https://github.com/ayushbhavsar21/Leetcode/tree/master/2078-maximum-compatibility-score-sum) |
 | [2808-painting-the-walls](https://github.com/ayushbhavsar21/Leetcode/tree/master/2808-painting-the-walls) |
 ## Divide and Conquer
