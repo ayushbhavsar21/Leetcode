@@ -257,6 +257,7 @@
 | [0299-bulls-and-cows](https://github.com/ayushbhavsar21/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0336-palindrome-pairs](https://github.com/ayushbhavsar21/Leetcode/tree/master/0336-palindrome-pairs) |
 | [0691-stickers-to-spell-word](https://github.com/ayushbhavsar21/Leetcode/tree/master/0691-stickers-to-spell-word) |
+| [1170-shortest-common-supersequence](https://github.com/ayushbhavsar21/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/ayushbhavsar21/Leetcode/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/ayushbhavsar21/Leetcode/tree/master/3576-find-subtree-sizes-after-changes) |
 ## Sliding Window
@@ -380,6 +381,7 @@
 | [0638-shopping-offers](https://github.com/ayushbhavsar21/Leetcode/tree/master/0638-shopping-offers) |
 | [0691-stickers-to-spell-word](https://github.com/ayushbhavsar21/Leetcode/tree/master/0691-stickers-to-spell-word) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/ayushbhavsar21/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [1170-shortest-common-supersequence](https://github.com/ayushbhavsar21/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/ayushbhavsar21/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2078-maximum-compatibility-score-sum](https://github.com/ayushbhavsar21/Leetcode/tree/master/2078-maximum-compatibility-score-sum) |
 | [2808-painting-the-walls](https://github.com/ayushbhavsar21/Leetcode/tree/master/2808-painting-the-walls) |
