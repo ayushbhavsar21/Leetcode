@@ -520,6 +520,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ayushbhavsar21/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/ayushbhavsar21/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0386-lexicographical-numbers](https://github.com/ayushbhavsar21/Leetcode/tree/master/0386-lexicographical-numbers) |
+| [1300-critical-connections-in-a-network](https://github.com/ayushbhavsar21/Leetcode/tree/master/1300-critical-connections-in-a-network) |
 | [1428-jump-game-iii](https://github.com/ayushbhavsar21/Leetcode/tree/master/1428-jump-game-iii) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/ayushbhavsar21/Leetcode/tree/master/3576-find-subtree-sizes-after-changes) |
 ## Breadth-First Search
@@ -651,6 +652,7 @@
 | [0207-course-schedule](https://github.com/ayushbhavsar21/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/ayushbhavsar21/Leetcode/tree/master/0310-minimum-height-trees) |
+| [1300-critical-connections-in-a-network](https://github.com/ayushbhavsar21/Leetcode/tree/master/1300-critical-connections-in-a-network) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -709,4 +711,8 @@
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/ayushbhavsar21/Leetcode/tree/master/0307-range-sum-query-mutable) |
+## Biconnected Component
+|  |
+| ------- |
+| [1300-critical-connections-in-a-network](https://github.com/ayushbhavsar21/Leetcode/tree/master/1300-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
