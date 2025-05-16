@@ -127,6 +127,7 @@
 | [0299-bulls-and-cows](https://github.com/ayushbhavsar21/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0336-palindrome-pairs](https://github.com/ayushbhavsar21/Leetcode/tree/master/0336-palindrome-pairs) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ayushbhavsar21/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ayushbhavsar21/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/ayushbhavsar21/Leetcode/tree/master/1129-longest-string-chain) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/ayushbhavsar21/Leetcode/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3583-sorted-gcd-pair-queries](https://github.com/ayushbhavsar21/Leetcode/tree/master/3583-sorted-gcd-pair-queries) |
@@ -322,6 +323,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/ayushbhavsar21/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/ayushbhavsar21/Leetcode/tree/master/0274-h-index) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ayushbhavsar21/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/ayushbhavsar21/Leetcode/tree/master/1129-longest-string-chain) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/ayushbhavsar21/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Backtracking
@@ -498,6 +500,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ayushbhavsar21/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ayushbhavsar21/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ayushbhavsar21/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ayushbhavsar21/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/ayushbhavsar21/Leetcode/tree/master/3576-find-subtree-sizes-after-changes) |
 ## Depth-First Search
 |  |
@@ -522,6 +525,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ayushbhavsar21/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/ayushbhavsar21/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0386-lexicographical-numbers](https://github.com/ayushbhavsar21/Leetcode/tree/master/0386-lexicographical-numbers) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ayushbhavsar21/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1300-critical-connections-in-a-network](https://github.com/ayushbhavsar21/Leetcode/tree/master/1300-critical-connections-in-a-network) |
 | [1428-jump-game-iii](https://github.com/ayushbhavsar21/Leetcode/tree/master/1428-jump-game-iii) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/ayushbhavsar21/Leetcode/tree/master/3576-find-subtree-sizes-after-changes) |
@@ -543,6 +547,7 @@
 | [0279-perfect-squares](https://github.com/ayushbhavsar21/Leetcode/tree/master/0279-perfect-squares) |
 | [0310-minimum-height-trees](https://github.com/ayushbhavsar21/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/ayushbhavsar21/Leetcode/tree/master/0322-coin-change) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ayushbhavsar21/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1428-jump-game-iii](https://github.com/ayushbhavsar21/Leetcode/tree/master/1428-jump-game-iii) |
 ## Stack
 |  |
@@ -592,6 +597,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ayushbhavsar21/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ayushbhavsar21/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ayushbhavsar21/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ayushbhavsar21/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Design
 |  |
 | ------- |
