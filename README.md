@@ -261,6 +261,7 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/ayushbhavsar21/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0212-word-search-ii) |
 | [0227-basic-calculator-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0227-basic-calculator-ii) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/ayushbhavsar21/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0299-bulls-and-cows](https://github.com/ayushbhavsar21/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0336-palindrome-pairs](https://github.com/ayushbhavsar21/Leetcode/tree/master/0336-palindrome-pairs) |
 | [0691-stickers-to-spell-word](https://github.com/ayushbhavsar21/Leetcode/tree/master/0691-stickers-to-spell-word) |
@@ -500,6 +501,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ayushbhavsar21/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ayushbhavsar21/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ayushbhavsar21/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/ayushbhavsar21/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ayushbhavsar21/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/ayushbhavsar21/Leetcode/tree/master/3576-find-subtree-sizes-after-changes) |
 ## Depth-First Search
@@ -523,6 +525,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ayushbhavsar21/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ayushbhavsar21/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ayushbhavsar21/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/ayushbhavsar21/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/ayushbhavsar21/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0386-lexicographical-numbers](https://github.com/ayushbhavsar21/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ayushbhavsar21/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -545,6 +548,7 @@
 | [0207-course-schedule](https://github.com/ayushbhavsar21/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0279-perfect-squares](https://github.com/ayushbhavsar21/Leetcode/tree/master/0279-perfect-squares) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/ayushbhavsar21/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/ayushbhavsar21/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/ayushbhavsar21/Leetcode/tree/master/0322-coin-change) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ayushbhavsar21/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -597,6 +601,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ayushbhavsar21/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ayushbhavsar21/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ayushbhavsar21/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/ayushbhavsar21/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ayushbhavsar21/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Design
 |  |
@@ -607,6 +612,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/ayushbhavsar21/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/ayushbhavsar21/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0284-peeking-iterator](https://github.com/ayushbhavsar21/Leetcode/tree/master/0284-peeking-iterator) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/ayushbhavsar21/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ayushbhavsar21/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/ayushbhavsar21/Leetcode/tree/master/0307-range-sum-query-mutable) |
 ## Trie
