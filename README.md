@@ -93,6 +93,7 @@
 | [0907-koko-eating-bananas](https://github.com/ayushbhavsar21/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1129-longest-string-chain](https://github.com/ayushbhavsar21/Leetcode/tree/master/1129-longest-string-chain) |
 | [1428-jump-game-iii](https://github.com/ayushbhavsar21/Leetcode/tree/master/1428-jump-game-iii) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ayushbhavsar21/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/ayushbhavsar21/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/ayushbhavsar21/Leetcode/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [2078-maximum-compatibility-score-sum](https://github.com/ayushbhavsar21/Leetcode/tree/master/2078-maximum-compatibility-score-sum) |
@@ -177,6 +178,7 @@
 | [0287-find-the-duplicate-number](https://github.com/ayushbhavsar21/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/ayushbhavsar21/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/ayushbhavsar21/Leetcode/tree/master/0907-koko-eating-bananas) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ayushbhavsar21/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [3583-sorted-gcd-pair-queries](https://github.com/ayushbhavsar21/Leetcode/tree/master/3583-sorted-gcd-pair-queries) |
 ## Combinatorics
 |  |
