@@ -91,6 +91,7 @@
 | [0691-stickers-to-spell-word](https://github.com/ayushbhavsar21/Leetcode/tree/master/0691-stickers-to-spell-word) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/ayushbhavsar21/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0907-koko-eating-bananas](https://github.com/ayushbhavsar21/Leetcode/tree/master/0907-koko-eating-bananas) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/ayushbhavsar21/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1129-longest-string-chain](https://github.com/ayushbhavsar21/Leetcode/tree/master/1129-longest-string-chain) |
 | [1428-jump-game-iii](https://github.com/ayushbhavsar21/Leetcode/tree/master/1428-jump-game-iii) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ayushbhavsar21/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -178,6 +179,7 @@
 | [0287-find-the-duplicate-number](https://github.com/ayushbhavsar21/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/ayushbhavsar21/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/ayushbhavsar21/Leetcode/tree/master/0907-koko-eating-bananas) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/ayushbhavsar21/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ayushbhavsar21/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [3583-sorted-gcd-pair-queries](https://github.com/ayushbhavsar21/Leetcode/tree/master/3583-sorted-gcd-pair-queries) |
 ## Combinatorics
