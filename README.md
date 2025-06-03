@@ -228,6 +228,7 @@
 | [0146-lru-cache](https://github.com/ayushbhavsar21/Leetcode/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/ayushbhavsar21/Leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/ayushbhavsar21/Leetcode/tree/master/0148-sort-list) |
+| [0206-reverse-linked-list](https://github.com/ayushbhavsar21/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/ayushbhavsar21/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -237,6 +238,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/ayushbhavsar21/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/ayushbhavsar21/Leetcode/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/ayushbhavsar21/Leetcode/tree/master/0143-reorder-list) |
+| [0206-reverse-linked-list](https://github.com/ayushbhavsar21/Leetcode/tree/master/0206-reverse-linked-list) |
 ## String
 |  |
 | ------- |
