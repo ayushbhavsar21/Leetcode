@@ -1,42 +1,34 @@
 class Solution {
 public:
-    double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
-        int n1 = nums1.size();
-        int n2 = nums2.size();
-        double ans=-1;
+    double findMedianSortedArrays(vector<int>& v1, vector<int>& v2) {
+        if(v1.size() > v2.size())
+            return findMedianSortedArrays(v2,v1);
 
-        vector<int> v;
-        int i=0,j=0;
-        while(i<n1 && j<n2){
-            if(nums1[i]<nums2[j]){
-                v.push_back(nums1[i]);
-                i++;
+        int n1 = v1.size() , n2 = v2.size();
+
+        int left = 0, right = n1;
+
+        while(left <= right){
+            int part1 = (left + right)/2;
+            int part2 = (n1 + n2 + 1)/2 - part1;
+
+            int maxleft1 = (part1 == 0) ? INT_MIN : v1[part1 - 1];
+            int minright1 = (part1 == n1) ? INT_MAX : v1[part1];
+            int maxleft2 = (part2 == 0) ? INT_MIN : v2[part2 - 1];
+            int minright2 = (part2 == n2) ? INT_MAX : v2[part2];
+
+            if(maxleft1 <= minright2 && maxleft2 <= minright1){
+                if((n1 + n2 )%2 == 0)
+                    return (max(maxleft1 , maxleft2) + min(minright1 , minright2))/2.0;
+                else
+                    return max(maxleft1 , maxleft2);
             }
-            else{
-                v.push_back(nums2[j]);
-                j++;
-            }
+            if(maxleft1 > minright2)
+                right = part1 -1;
+            else
+                left = part1 +1;
+            
         }
-        while(i<n1){
-            v.push_back(nums1[i]);
-            i++;
-        }
-        while(j<n2){
-            v.push_back(nums2[j]);
-            j++;
-        }
-
-        for(auto i:v){
-            cout<<i<<" ";
-        }cout<<endl;
-
-        if((n1 + n2)%2 ==0   ){
-            ans = ((double)v[(n1 + n2)/2] + (double)v[(n1 + n2)/2 - 1] )/2;
-        }
-        else{
-            ans = v[(n1 + n2)/2] ;
-        }
-
-        return ans;
+        return 0.0;
     }
 };
