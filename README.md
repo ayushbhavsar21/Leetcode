@@ -123,6 +123,7 @@
 | [0140-word-break-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0140-word-break-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/ayushbhavsar21/Leetcode/tree/master/0146-lru-cache) |
+| [0160-intersection-of-two-linked-lists](https://github.com/ayushbhavsar21/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ayushbhavsar21/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0187-repeated-dna-sequences](https://github.com/ayushbhavsar21/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/ayushbhavsar21/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
@@ -228,6 +229,7 @@
 | [0146-lru-cache](https://github.com/ayushbhavsar21/Leetcode/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/ayushbhavsar21/Leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/ayushbhavsar21/Leetcode/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/ayushbhavsar21/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/ayushbhavsar21/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/ayushbhavsar21/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
@@ -305,6 +307,7 @@
 | [0143-reorder-list](https://github.com/ayushbhavsar21/Leetcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/ayushbhavsar21/Leetcode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/ayushbhavsar21/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/ayushbhavsar21/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/ayushbhavsar21/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushbhavsar21/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ayushbhavsar21/Leetcode/tree/master/0189-rotate-array) |
