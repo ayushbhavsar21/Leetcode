@@ -94,6 +94,7 @@
 | [0907-koko-eating-bananas](https://github.com/ayushbhavsar21/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/ayushbhavsar21/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/ayushbhavsar21/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/ayushbhavsar21/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ayushbhavsar21/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1129-longest-string-chain](https://github.com/ayushbhavsar21/Leetcode/tree/master/1129-longest-string-chain) |
 | [1428-jump-game-iii](https://github.com/ayushbhavsar21/Leetcode/tree/master/1428-jump-game-iii) |
@@ -138,6 +139,7 @@
 | [0940-fruit-into-baskets](https://github.com/ayushbhavsar21/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/ayushbhavsar21/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ayushbhavsar21/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1034-subarrays-with-k-different-integers](https://github.com/ayushbhavsar21/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1129-longest-string-chain](https://github.com/ayushbhavsar21/Leetcode/tree/master/1129-longest-string-chain) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/ayushbhavsar21/Leetcode/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3583-sorted-gcd-pair-queries](https://github.com/ayushbhavsar21/Leetcode/tree/master/3583-sorted-gcd-pair-queries) |
@@ -198,6 +200,7 @@
 | ------- |
 | [0229-majority-element-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/ayushbhavsar21/Leetcode/tree/master/0299-bulls-and-cows) |
+| [1034-subarrays-with-k-different-integers](https://github.com/ayushbhavsar21/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [3583-sorted-gcd-pair-queries](https://github.com/ayushbhavsar21/Leetcode/tree/master/3583-sorted-gcd-pair-queries) |
 ## Number Theory
 |  |
@@ -298,6 +301,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/ayushbhavsar21/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0940-fruit-into-baskets](https://github.com/ayushbhavsar21/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/ayushbhavsar21/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/ayushbhavsar21/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 ## Two Pointers
 |  |
 | ------- |
