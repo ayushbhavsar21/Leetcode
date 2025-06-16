@@ -291,6 +291,7 @@
 | [0336-palindrome-pairs](https://github.com/ayushbhavsar21/Leetcode/tree/master/0336-palindrome-pairs) |
 | [0402-remove-k-digits](https://github.com/ayushbhavsar21/Leetcode/tree/master/0402-remove-k-digits) |
 | [0691-stickers-to-spell-word](https://github.com/ayushbhavsar21/Leetcode/tree/master/0691-stickers-to-spell-word) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/ayushbhavsar21/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1129-longest-string-chain](https://github.com/ayushbhavsar21/Leetcode/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/ayushbhavsar21/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/ayushbhavsar21/Leetcode/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
@@ -341,6 +342,7 @@
 | [0134-gas-station](https://github.com/ayushbhavsar21/Leetcode/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/ayushbhavsar21/Leetcode/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/ayushbhavsar21/Leetcode/tree/master/0402-remove-k-digits) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/ayushbhavsar21/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/ayushbhavsar21/Leetcode/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
 ## Sorting
 |  |
@@ -604,6 +606,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/ayushbhavsar21/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0227-basic-calculator-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0402-remove-k-digits](https://github.com/ayushbhavsar21/Leetcode/tree/master/0402-remove-k-digits) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/ayushbhavsar21/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Binary Search Tree
 |  |
 | ------- |
