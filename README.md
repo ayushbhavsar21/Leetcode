@@ -290,6 +290,7 @@
 | [0299-bulls-and-cows](https://github.com/ayushbhavsar21/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0336-palindrome-pairs](https://github.com/ayushbhavsar21/Leetcode/tree/master/0336-palindrome-pairs) |
 | [0402-remove-k-digits](https://github.com/ayushbhavsar21/Leetcode/tree/master/0402-remove-k-digits) |
+| [0686-repeated-string-match](https://github.com/ayushbhavsar21/Leetcode/tree/master/0686-repeated-string-match) |
 | [0691-stickers-to-spell-word](https://github.com/ayushbhavsar21/Leetcode/tree/master/0691-stickers-to-spell-word) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ayushbhavsar21/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1129-longest-string-chain](https://github.com/ayushbhavsar21/Leetcode/tree/master/1129-longest-string-chain) |
@@ -781,4 +782,8 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ayushbhavsar21/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/ayushbhavsar21/Leetcode/tree/master/0402-remove-k-digits) |
+## String Matching
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/ayushbhavsar21/Leetcode/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
