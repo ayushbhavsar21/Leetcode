@@ -298,6 +298,7 @@
 | [1129-longest-string-chain](https://github.com/ayushbhavsar21/Leetcode/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/ayushbhavsar21/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1508-longest-happy-prefix](https://github.com/ayushbhavsar21/Leetcode/tree/master/1508-longest-happy-prefix) |
+| [2577-count-palindromic-subsequences](https://github.com/ayushbhavsar21/Leetcode/tree/master/2577-count-palindromic-subsequences) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/ayushbhavsar21/Leetcode/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/ayushbhavsar21/Leetcode/tree/master/3576-find-subtree-sizes-after-changes) |
 ## Sliding Window
@@ -444,6 +445,7 @@
 | [1170-shortest-common-supersequence](https://github.com/ayushbhavsar21/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/ayushbhavsar21/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2078-maximum-compatibility-score-sum](https://github.com/ayushbhavsar21/Leetcode/tree/master/2078-maximum-compatibility-score-sum) |
+| [2577-count-palindromic-subsequences](https://github.com/ayushbhavsar21/Leetcode/tree/master/2577-count-palindromic-subsequences) |
 | [2808-painting-the-walls](https://github.com/ayushbhavsar21/Leetcode/tree/master/2808-painting-the-walls) |
 ## Divide and Conquer
 |  |
