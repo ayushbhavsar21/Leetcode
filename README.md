@@ -297,6 +297,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ayushbhavsar21/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1129-longest-string-chain](https://github.com/ayushbhavsar21/Leetcode/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/ayushbhavsar21/Leetcode/tree/master/1170-shortest-common-supersequence) |
+| [1508-longest-happy-prefix](https://github.com/ayushbhavsar21/Leetcode/tree/master/1508-longest-happy-prefix) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/ayushbhavsar21/Leetcode/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/ayushbhavsar21/Leetcode/tree/master/3576-find-subtree-sizes-after-changes) |
 ## Sliding Window
@@ -747,11 +748,13 @@
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/ayushbhavsar21/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/ayushbhavsar21/Leetcode/tree/master/0214-shortest-palindrome) |
+| [1508-longest-happy-prefix](https://github.com/ayushbhavsar21/Leetcode/tree/master/1508-longest-happy-prefix) |
 ## Hash Function
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/ayushbhavsar21/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/ayushbhavsar21/Leetcode/tree/master/0214-shortest-palindrome) |
+| [1508-longest-happy-prefix](https://github.com/ayushbhavsar21/Leetcode/tree/master/1508-longest-happy-prefix) |
 ## Topological Sort
 |  |
 | ------- |
@@ -793,4 +796,5 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ayushbhavsar21/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/ayushbhavsar21/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0686-repeated-string-match](https://github.com/ayushbhavsar21/Leetcode/tree/master/0686-repeated-string-match) |
+| [1508-longest-happy-prefix](https://github.com/ayushbhavsar21/Leetcode/tree/master/1508-longest-happy-prefix) |
 <!---LeetCode Topics End-->
