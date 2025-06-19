@@ -137,6 +137,7 @@
 | [0299-bulls-and-cows](https://github.com/ayushbhavsar21/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0336-palindrome-pairs](https://github.com/ayushbhavsar21/Leetcode/tree/master/0336-palindrome-pairs) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ayushbhavsar21/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0460-lfu-cache](https://github.com/ayushbhavsar21/Leetcode/tree/master/0460-lfu-cache) |
 | [0940-fruit-into-baskets](https://github.com/ayushbhavsar21/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/ayushbhavsar21/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ayushbhavsar21/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -241,6 +242,7 @@
 | [0148-sort-list](https://github.com/ayushbhavsar21/Leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ayushbhavsar21/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/ayushbhavsar21/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0460-lfu-cache](https://github.com/ayushbhavsar21/Leetcode/tree/master/0460-lfu-cache) |
 | [0908-middle-of-the-linked-list](https://github.com/ayushbhavsar21/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -667,6 +669,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ayushbhavsar21/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ayushbhavsar21/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/ayushbhavsar21/Leetcode/tree/master/0307-range-sum-query-mutable) |
+| [0460-lfu-cache](https://github.com/ayushbhavsar21/Leetcode/tree/master/0460-lfu-cache) |
 ## Trie
 |  |
 | ------- |
@@ -725,6 +728,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/ayushbhavsar21/Leetcode/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/ayushbhavsar21/Leetcode/tree/master/0460-lfu-cache) |
 ## Bucket Sort
 |  |
 | ------- |
