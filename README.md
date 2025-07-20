@@ -300,6 +300,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ayushbhavsar21/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1129-longest-string-chain](https://github.com/ayushbhavsar21/Leetcode/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/ayushbhavsar21/Leetcode/tree/master/1170-shortest-common-supersequence) |
+| [1250-longest-common-subsequence](https://github.com/ayushbhavsar21/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1508-longest-happy-prefix](https://github.com/ayushbhavsar21/Leetcode/tree/master/1508-longest-happy-prefix) |
 | [2577-count-palindromic-subsequences](https://github.com/ayushbhavsar21/Leetcode/tree/master/2577-count-palindromic-subsequences) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/ayushbhavsar21/Leetcode/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
@@ -447,6 +448,7 @@
 | [0877-shortest-path-visiting-all-nodes](https://github.com/ayushbhavsar21/Leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [1129-longest-string-chain](https://github.com/ayushbhavsar21/Leetcode/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/ayushbhavsar21/Leetcode/tree/master/1170-shortest-common-supersequence) |
+| [1250-longest-common-subsequence](https://github.com/ayushbhavsar21/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1559-cherry-pickup-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/1559-cherry-pickup-ii) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/ayushbhavsar21/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2078-maximum-compatibility-score-sum](https://github.com/ayushbhavsar21/Leetcode/tree/master/2078-maximum-compatibility-score-sum) |
