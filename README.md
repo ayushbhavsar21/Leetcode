@@ -254,6 +254,7 @@
 | [0050-powx-n](https://github.com/ayushbhavsar21/Leetcode/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/ayushbhavsar21/Leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/ayushbhavsar21/Leetcode/tree/master/0206-reverse-linked-list) |
+| [1197-parsing-a-boolean-expression](https://github.com/ayushbhavsar21/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 ## String
 |  |
 | ------- |
@@ -300,6 +301,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ayushbhavsar21/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1129-longest-string-chain](https://github.com/ayushbhavsar21/Leetcode/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/ayushbhavsar21/Leetcode/tree/master/1170-shortest-common-supersequence) |
+| [1197-parsing-a-boolean-expression](https://github.com/ayushbhavsar21/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1250-longest-common-subsequence](https://github.com/ayushbhavsar21/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1508-longest-happy-prefix](https://github.com/ayushbhavsar21/Leetcode/tree/master/1508-longest-happy-prefix) |
 | [2577-count-palindromic-subsequences](https://github.com/ayushbhavsar21/Leetcode/tree/master/2577-count-palindromic-subsequences) |
@@ -624,6 +626,7 @@
 | [0227-basic-calculator-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0402-remove-k-digits](https://github.com/ayushbhavsar21/Leetcode/tree/master/0402-remove-k-digits) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ayushbhavsar21/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1197-parsing-a-boolean-expression](https://github.com/ayushbhavsar21/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 ## Binary Search Tree
 |  |
 | ------- |
