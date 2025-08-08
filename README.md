@@ -451,6 +451,7 @@
 | [1129-longest-string-chain](https://github.com/ayushbhavsar21/Leetcode/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/ayushbhavsar21/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/ayushbhavsar21/Leetcode/tree/master/1250-longest-common-subsequence) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ayushbhavsar21/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1559-cherry-pickup-ii](https://github.com/ayushbhavsar21/Leetcode/tree/master/1559-cherry-pickup-ii) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/ayushbhavsar21/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2078-maximum-compatibility-score-sum](https://github.com/ayushbhavsar21/Leetcode/tree/master/2078-maximum-compatibility-score-sum) |
@@ -737,6 +738,7 @@
 | [0310-minimum-height-trees](https://github.com/ayushbhavsar21/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/ayushbhavsar21/Leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [1300-critical-connections-in-a-network](https://github.com/ayushbhavsar21/Leetcode/tree/master/1300-critical-connections-in-a-network) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ayushbhavsar21/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -861,4 +863,8 @@
 | [0214-shortest-palindrome](https://github.com/ayushbhavsar21/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0686-repeated-string-match](https://github.com/ayushbhavsar21/Leetcode/tree/master/0686-repeated-string-match) |
 | [1508-longest-happy-prefix](https://github.com/ayushbhavsar21/Leetcode/tree/master/1508-longest-happy-prefix) |
+## Shortest Path
+|  |
+| ------- |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ayushbhavsar21/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 <!---LeetCode Topics End-->
